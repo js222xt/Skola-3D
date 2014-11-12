@@ -1,0 +1,5 @@
+1. Där 3d-cursorn är.
+2. SHIFT-A -> Mesh ->
+3. Den har inga polygoner ännu.
+4. När en loop av minst 3 vertexpunkter är slutna och fylld av en yta.
+5. 

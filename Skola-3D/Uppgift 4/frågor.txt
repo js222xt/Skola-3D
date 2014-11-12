@@ -1,0 +1,3 @@
+1. Samma sätt som man lägger till primitiver i 3D-view, SHIFT-A
+2. Man drar från en punkt till en annan, tex från en Diffuse BSDF drar man BSDF till en Material Outputs Surface.
+3. Tycker på F jämte namnet på materialet.

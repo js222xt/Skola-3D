@@ -1,0 +1,8 @@
+1. Uppifrån och ner.
+2. Catmull-Clark-metoden gör modellen rundare och mjukare, medan Simple-metoden bara lägger till 
+fler polygoner utan att ändra formen.
+3. Sparar ändringarna som modifiern gör och gör om modellen, tex om man använder array modifier och man trycker på apply så görs modellen om.
+4. 
+a) CRTL-R
+b) O
+c) M->klicka på det lager du vill flytta till alternativt trycka 0-9.
